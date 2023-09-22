@@ -1,3 +1,5 @@
 ## React + Vite
 
-##Password Generator app
+## Password Generator app
+
+![preview](public/preview.png)
